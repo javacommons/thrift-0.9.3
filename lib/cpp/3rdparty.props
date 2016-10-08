@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
     <BOOST_ROOT>C:\local\boost_1_61_0</BOOST_ROOT>
-    <OPENSSL_ROOT_DIR>Z:\dev2\openssl-1.0.1t-vs2015</OPENSSL_ROOT_DIR>
+    <OPENSSL_ROOT_DIR>C:\local\openssl-1.0.1u-vs2015</OPENSSL_ROOT_DIR>
     <LIBEVENT_ROOT>C:\local\libevent-2.0.22-stable</LIBEVENT_ROOT>
   </PropertyGroup>
   <PropertyGroup />

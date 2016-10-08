@@ -334,7 +334,7 @@ void TSSLSocket::checkHandshake() {
     buildErrors(errors, errno_copy);
     throw TSSLException(fname + ": " + errors);
   }
-  authorize();
+  ////authorize();
 }
 
 void TSSLSocket::authorize() {
